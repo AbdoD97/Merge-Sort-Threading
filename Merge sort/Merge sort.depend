@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1543329557 source:/home/roota/Desktop/Merge Sort/Merge sort/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<pthread.h>
+
